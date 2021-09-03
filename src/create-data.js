@@ -15,4 +15,4 @@ export function setTheme (Theme) {
         refs.body.classList.add(themeDataOfStorage);
     }
 
-};  
+}
